@@ -1,2 +1,0 @@
-Student Count: 8
-Average Student Age: 21
