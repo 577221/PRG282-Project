@@ -1,0 +1,8 @@
+1,Christo,23,Bachelor of Computing
+2,Liam,25,Bachelor of IT
+3,Manissha,21,Bachelor of Computing
+4,Priscilla,21,Bachelor of Computing
+5,Jax,26,Bachelor of Computing
+6,Michael W. Smith,21,Bachelor of IT
+7,Sidney,32,Certificate: IT
+8,Chris,25,Bachelor of IT
